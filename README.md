@@ -1,2 +1,2 @@
 # test
-this is a basic file for jenkins testing
+this is a basic repo for jenkins testing
